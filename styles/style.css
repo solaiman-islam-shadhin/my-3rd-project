@@ -1,7 +1,11 @@
 * {
     margin: 0px;
     padding: 0px;
-    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    .lato-thin {
+        font-family: "Lato", serif;
+        font-weight: 100;
+        font-style: normal;
+      }
     font-weight: 600;
 }
 
